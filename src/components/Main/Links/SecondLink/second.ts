@@ -7,4 +7,7 @@ export const AStyled = styled.a`
   padding: 12px 45px;
   color: rgb(255, 255, 255);
   text-decoration: none;
+  :hover {
+    opacity: 0.9;
+  }
 `;
