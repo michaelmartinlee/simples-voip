@@ -1,4 +1,4 @@
-import { Navbar, SecondNavbar, WhatsNavbar } from "./Navbar";
+import { Navbar, SecondNavbar, WhatsNavbar } from "../Navbar";
 import {
   HeaderStyled,
   ImgDivStyled,

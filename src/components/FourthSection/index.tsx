@@ -1,9 +1,9 @@
-import LastLink from "../Links/LastLink/Last";
-import { DivStyled, SectionStyledd, DivStyle, DivStyl } from "./styled";
-import Banner from "../../../assets/images/Banner.png";
+import { DivStyled, SectionStyledd, DivStyle, DivStyl } from "./style";
+import Banner from "../../assets/images/Banner.png";
 import { listOl } from "./olObjects";
+import ThirdLink from "../Links/ThirdLink";
 
-export default function Four() {
+export default function FourthSection() {
   return (
     <DivStyled id="plano">
       <DivStyled>
@@ -25,7 +25,7 @@ export default function Four() {
             </ul>
           ))}
         </DivStyl>
-        <LastLink
+        <ThirdLink
           texto="Assinar Plano"
           redirect="https://www.asaas.com/c/250742374980"
         />

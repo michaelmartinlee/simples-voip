@@ -1,4 +1,5 @@
-import { AStyled } from "./style";
+import { LinkStyled } from "./style";
+
 interface LinkProps {
   texto: string;
 
@@ -6,12 +7,12 @@ interface LinkProps {
 }
 export default function FirstLink(props: LinkProps) {
   return (
-    <AStyled
+    <LinkStyled
       className="link-banner"
       href="https://api.whatsapp.com/send?phone=5511955505449&text=Temos%20interesse%20na%20plataforma%20Simples%20VOIP%20De%20Multi%20Atendimento"
       target="_blank"
     >
       {props.texto}
-    </AStyled>
+    </LinkStyled>
   );
 }

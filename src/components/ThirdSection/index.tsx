@@ -1,7 +1,13 @@
-import { recursosArray } from "../../../assets/images";
-import { FormStyled, PStyled, DivFormStyled, H4Styled, DivTitleStyled } from "./style";
+import { recursosArray } from "../../assets/images";
+import {
+  FormStyled,
+  PStyled,
+  DivFormStyled,
+  H4Styled,
+  DivTitleStyled,
+} from "./style";
 
-export default function Third() {
+export default function ThirdSection() {
   return (
     <div>
       <DivTitleStyled id="recursos">

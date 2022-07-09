@@ -1,8 +1,8 @@
-import Banner2 from "../../../assets/images/banner2.png";
-import FirstLink from "../Links/SecondLink/SecondLink";
+import Banner2 from "../../assets/images/banner2.png";
+import SecondLink from "../Links/SecondLink";
 import { FormStyled, Pstyled, H1Styled, ImgStyled } from "./style";
 
-export default function Second_Banner() {
+export default function SecondSection() {
   return (
     <div>
       <FormStyled>
@@ -17,7 +17,7 @@ export default function Second_Banner() {
             Direcione as solicitações a cada área, através do nosso Chatbot.
           </Pstyled>
           <div>
-            <FirstLink
+            <SecondLink
               texto="Solicitar Demonstração"
               href="https://api.whatsapp.com/send?phone=5511955505449&text=Temos%20interesse%20na%20plataforma%20Simples%20VOIP%20De%20Multi%20Atendimento"
             />

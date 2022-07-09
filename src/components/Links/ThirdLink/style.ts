@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const AStyled = styled.a`
+export const LinkStyled = styled.a`
   padding: 15px 100px;
   border-top: whitesmoke solid 2px;
   border-bottom-left-radius: 8px;

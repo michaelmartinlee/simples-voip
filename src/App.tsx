@@ -1,20 +1,24 @@
-import { Header } from "./components/Header"
-import "./styles/global.css"
-import Main from "./components/Main"
-import { Footer } from "./components/Footer"
-import { Widget } from "./components/Widget"
+import { Header } from "./components/Header";
+import "./styles/global.css";
+import { Footer } from "./components/Footer";
+import { Widget } from "./components/Widget";
+import FirstSection from "./components/FirstSection";
+import SecondSection from "./components/SecondSection";
+import ThirdSection from "./components/ThirdSection";
+import FourthSection from "./components/FourthSection";
 
 function App() {
-
   return (
-    <div>
-        <Header />
-        <Main />
-        <Footer />
-        <Widget />
-    </div>
-    
-  )
+    <>
+      <Header />
+      <FirstSection />
+      <SecondSection />
+      <ThirdSection />
+      <FourthSection />
+      <Footer />
+      <Widget />
+    </>
+  );
 }
 
-export default App
+export default App;
