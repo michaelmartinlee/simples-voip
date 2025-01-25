@@ -1,24 +1,23 @@
 # Simples Voip
 
-Em conjunto com [João Antonio](https://github.com/joaotoni), desenvolvemos a plataforma da Simples Voip, um serviço de atendimento que simplifica a comunicação via whatsapp entre clientes e sua empresa. Muitos aprendizados, desde organização para trabalhar em equipe, até a realmente coloca-lo em produção.
-Para acessar Simples Voip basta [clicar aqui](https://simplesvoip.com.br/)
+Together with [João Antonio](https://github.com/joaotoni), we developed the Simples Voip platform, a service that simplifies communication via WhatsApp between customers and your company. Many learnings came from this project, from team organization to actually putting it into production.  
+To access Simples Voip, just [click here](https://simplesvoip.com.br/).
 
-## 💬 Intenções
+## 💬 Intentions
 
-Por ser nossa primeira experiência real, aplicamos os seguintes conceitos:
+As this was our first real experience, we applied the following concepts:
 
 - Clean Code
 - Clean Architecture
-- Identação e padronização de nomes
+- Indentation and naming standardization
 
-## 🔧 Ferramentas
+## 🔧 Tools
 
-- [Vite](https://vitejs.dev/) - framework React
-- [Styled Components](https://styled-components.com/) - framework de estilização
+- [Vite](https://vitejs.dev/) - React framework
+- [Styled Components](https://styled-components.com/) - Styling framework
 
+## 🎁 Expressions of Gratitude
 
-## 🎁 Expressões de gratidão
-
-* Muito grato a Simples Voip por permitir essa oportunidade 🤝 
-* Obrigado [João Antonio](https://github.com/joaotoni) por compartilhar experiências e oportunidades 🤜🤛
-* Que seja o primeiro de muitos 💪
+* Very grateful to Simples Voip for allowing this opportunity 🤝  
+* Thank you [João Antonio](https://github.com/joaotoni) for sharing experiences and opportunities 🤜🤛  
+* May this be the first of many 💪
